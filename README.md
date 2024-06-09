@@ -2,22 +2,24 @@
 
 Use openapi-whisper model offline with Android app.
 
-### Library Module  
+### Modules
 Created a separate library module to plugin in any app.
 
 - AAR module library_openai-whisper-android
 - Library Module openai-whisper-android
 
-#### AAR File
-[library_openai-whisper-android.aar](https://github.com/DastanIqbal/openai-whisper-android/download/library_openai-whisper-android.aar)
+#### Download AAR File
+[library_openai-whisper-android.aar](https://github.com/DastanIqbal/openai-whisper-android/raw/master/download/library_openai-whisper-android.aar)
 
-#### AAR Module
-[library_openai-whisper-android.zip AAR Module](https://github.com/DastanIqbal/openai-whisper-android/download/library_openai-whisper-android.zip)
+#### Download AAR Module
+[library_openai-whisper-android.zip AAR Module](https://github.com/DastanIqbal/openai-whisper-android/raw/master/download/library_openai-whisper-android.zip)
 
-#### Library Module
-[openai-whisper-android.zip Module](https://github.com/DastanIqbal/openai-whisper-android/download/openai-whisper-android.zip)
+#### Download Library Module
+[openai-whisper-android.zip Module](https://github.com/DastanIqbal/openai-whisper-android/raw/master/download/openai-whisper-android.zip)
 
 
+### Demo
+Add Video
 
 ### References
 
