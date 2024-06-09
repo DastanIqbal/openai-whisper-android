@@ -41,5 +41,6 @@ dependencies {
     implementation(libs.google.material)
     implementation libs.androidx.core.ktx
 
-    implementation(project(":openai-whisper"))
+//    implementation(project(":openai-whisper-android"))
+    implementation(project(":library_openai-whisper-android"))
 }

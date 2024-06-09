@@ -1,2 +1,3 @@
 include ':app'
-include ':openai-whisper'
+include ':openai-whisper-android'
+include ':library_openai-whisper-android'
