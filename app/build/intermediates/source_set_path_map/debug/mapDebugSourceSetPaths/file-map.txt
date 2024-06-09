@@ -1,0 +1,17 @@
+com.whisper.android.tflitecpp.app-appcompat-1.2.0-0 /Users/iqbal/.gradle/caches/transforms-4/22e0566c257e87559159e3fb3cd7b4f0/transformed/appcompat-1.2.0/res
+com.whisper.android.tflitecpp.app-jetified-appcompat-resources-1.2.0-1 /Users/iqbal/.gradle/caches/transforms-4/2fe958ec670dfdb1a8298dde8c699fc7/transformed/jetified-appcompat-resources-1.2.0/res
+com.whisper.android.tflitecpp.app-transition-1.2.0-2 /Users/iqbal/.gradle/caches/transforms-4/4fdf8438641a17a1661bf2e281af1064/transformed/transition-1.2.0/res
+com.whisper.android.tflitecpp.app-constraintlayout-2.0.4-3 /Users/iqbal/.gradle/caches/transforms-4/6a6d8dabff91d4fb057ccc1f6d1a262c/transformed/constraintlayout-2.0.4/res
+com.whisper.android.tflitecpp.app-core-1.3.1-4 /Users/iqbal/.gradle/caches/transforms-4/6c9cd000c1ae2657346c01cd2fb031ce/transformed/core-1.3.1/res
+com.whisper.android.tflitecpp.app-coordinatorlayout-1.1.0-5 /Users/iqbal/.gradle/caches/transforms-4/79f106eb89b81989cac2ef1928acf37b/transformed/coordinatorlayout-1.1.0/res
+com.whisper.android.tflitecpp.app-recyclerview-1.1.0-6 /Users/iqbal/.gradle/caches/transforms-4/8532a849186941dccc31e553674b1584/transformed/recyclerview-1.1.0/res
+com.whisper.android.tflitecpp.app-jetified-viewpager2-1.0.0-7 /Users/iqbal/.gradle/caches/transforms-4/9f8c0466f5ed663d49f1cbb03a1bfd9e/transformed/jetified-viewpager2-1.0.0/res
+com.whisper.android.tflitecpp.app-cardview-1.0.0-8 /Users/iqbal/.gradle/caches/transforms-4/af7847a3528c796c74d72f5a18f663b3/transformed/cardview-1.0.0/res
+com.whisper.android.tflitecpp.app-material-1.3.0-9 /Users/iqbal/.gradle/caches/transforms-4/e7df05bd34689fe88f33dea86adf5ad6/transformed/material-1.3.0/res
+com.whisper.android.tflitecpp.app-pngs-10 /Users/iqbal/Iqbal/Study/TensorFlow/Whisper-TFLIte-Android-Example/app/build/generated/res/pngs/debug
+com.whisper.android.tflitecpp.app-resValues-11 /Users/iqbal/Iqbal/Study/TensorFlow/Whisper-TFLIte-Android-Example/app/build/generated/res/resValues/debug
+com.whisper.android.tflitecpp.app-packageDebugResources-12 /Users/iqbal/Iqbal/Study/TensorFlow/Whisper-TFLIte-Android-Example/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.whisper.android.tflitecpp.app-packageDebugResources-13 /Users/iqbal/Iqbal/Study/TensorFlow/Whisper-TFLIte-Android-Example/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.whisper.android.tflitecpp.app-debug-14 /Users/iqbal/Iqbal/Study/TensorFlow/Whisper-TFLIte-Android-Example/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.whisper.android.tflitecpp.app-debug-15 /Users/iqbal/Iqbal/Study/TensorFlow/Whisper-TFLIte-Android-Example/app/src/debug/res
+com.whisper.android.tflitecpp.app-main-16 /Users/iqbal/Iqbal/Study/TensorFlow/Whisper-TFLIte-Android-Example/app/src/main/res
