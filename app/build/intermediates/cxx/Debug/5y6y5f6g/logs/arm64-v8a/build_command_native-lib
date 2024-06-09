@@ -1,4 +1,0 @@
-/Users/iqbal/Library/Android/sdk/cmake/3.22.1/bin/ninja \
-  -C \
-  /Users/iqbal/Iqbal/Study/TensorFlow/Whisper-TFLIte-Android-Example/app/.cxx/Debug/5y6y5f6g/arm64-v8a \
-  native-lib
