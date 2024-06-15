@@ -8,6 +8,14 @@ Created a separate library module to plugin in any app.
 - AAR module library_openai-whisper-android
 - Library Module openai-whisper-android
 
+### Usage
+```kotlin
+    // assets AssetManager(asset folder)
+    // filePath: path of the file (.wav)
+    // isRecorded 
+    Loader.loadModelJNI(assets, filePath, isRecorded)
+```
+
 #### Download AAR File
 [library_openai-whisper-android.aar](https://github.com/DastanIqbal/openai-whisper-android/raw/master/download/library_openai-whisper-android.aar)
 
