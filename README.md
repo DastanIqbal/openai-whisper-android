@@ -9,6 +9,23 @@ Created a separate library module to plugin in any app.
 - Library Module openai-whisper-android
 
 ### Usage
+#### Record Audio
+Use `WavAudioRecorder.kt` to record audio, check [sample](https://github.com/DastanIqbal/openai-whisper-android/blob/master/app/src/main/java/com/whisper/android/tflitecpp/MainActivity.kt)
+```kotlin
+    var mRecorder: WavAudioRecorder? = null
+    // Start Recording
+    mRecorder = WavAudioRecorder.instanse
+    mRecorder?.setOutputFile(fileName)
+    mRecorder?.prepare()
+    mRecorder?.start()
+
+    // Stop Recording
+    mRecorder?.release()
+    mRecorder = WavAudioRecorder.instanse
+    mRecorder?.setOutputFile(fileName)
+```
+
+#### Transcribe audio to text
 ```kotlin
     // assets AssetManager(asset folder)
     // filePath: path of the file (.wav)
