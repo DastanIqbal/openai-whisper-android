@@ -1,6 +1,6 @@
 ## Android app with Whisper
 
-Use openapi-whisper model offline with Android app.
+Use openai-whisper model offline with Android app.
 
 ### Modules
 Created a separate library module to plugin in any app.
